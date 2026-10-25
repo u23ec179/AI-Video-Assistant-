@@ -302,7 +302,7 @@ Contributions, issues and feature requests are welcome.
 
 ## 👤 Author
 
-**Rahul** — B.Tech ECE, SVNIT Surat
+**Deepak** — B.Tech ECE, SVNIT Surat
 GitHub: [@u23ec179](https://github.com/u23ec179)
 
 <div align="center">
